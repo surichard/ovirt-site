@@ -4,23 +4,23 @@ title: oVirt Installation Guide
 
 # oVirt Installation Guide
 
-## Part I: Introduction to oVirt
+## Part I: Introduction to oVirt 介绍oVirt
 
-### Chapter 1: [Introduction to oVirt](../chap-Introduction_to_oVirt)
+### Chapter 1: [Introduction to oVirt oVirt简介](../chap-Introduction_to_oVirt)
 
-### Chapter 2: [System Requirements](../chap-System_Requirements)
+### Chapter 2: [System Requirements 系统要求](../chap-System_Requirements)
 
-## Part II: Installing oVirt
+## Part II: Installing oVirt 安装oVirt
 
-### Chapter 3: [Installing oVirt](../chap-Installing_oVirt)
+### Chapter 3: [Installing oVirt 安装oVirt](../chap-Installing_oVirt)
 
-### Chapter 4: [oVirt Engine Related Tasks](../chap-oVirt_Engine_Related_Tasks)
+### Chapter 4: [oVirt Engine Related Tasks 引擎相关任务](../chap-oVirt_Engine_Related_Tasks)
 
-## Part III: Installing Hypervisor Hosts
+## Part III: Installing Hypervisor Hosts 安装宿主机
 
-### Chapter 5: [Introduction to Hypervisor Hosts](../chap-Introduction_to_Hypervisor_Hosts)
+### Chapter 5: [Introduction to Hypervisor Hosts 介绍宿主机](../chap-Introduction_to_Hypervisor_Hosts)
 
-### Chapter 6: [oVirt Nodes](../chap-oVirt_Nodes)
+### Chapter 6: [oVirt Nodes oVirt节点](../chap-oVirt_Nodes)
 
 ### Chapter 7: [Enterprise Linux Hosts](../chap-Enterprise_Linux_Hosts)
 
